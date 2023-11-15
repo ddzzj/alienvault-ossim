@@ -9,7 +9,7 @@ MySQL-python==1.2.5
 PyMySQL==0.5
 PyYAML==3.10
 Pygments==1.6
-SQLAlchemy==1.0.8
+SQLAlchemy==1.2.18
 Sphinx==1.2b1
 Werkzeug==0.9.1
 amqp==1.0.12
